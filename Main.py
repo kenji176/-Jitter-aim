@@ -6,7 +6,7 @@ import keyboard
 
 toggle_button: str = "E"
 times: int = 0.001
-pos: int = 60
+pos: int = 6
 enabled: bool = False
 
 
